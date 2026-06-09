@@ -89,8 +89,8 @@ A professional, web-based Security Operations Center (SOC) platform built with P
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/soc-platform.git
-cd soc-platform
+[git clone https://github.com/J0j1n/SOC-Log-Analysis-Incident-Detection-Platform.git]
+cd SOC-Log-Analysis-Incident-Detection-Platform
 
 # Install dependencies
 pip install -r requirements.txt
